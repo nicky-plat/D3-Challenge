@@ -39,5 +39,7 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 ![8-tooltip](Images/8-tooltip.gif)
 
+View the live webpage here: https://nicky-plat.github.io/D3-Challenge/
+
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
