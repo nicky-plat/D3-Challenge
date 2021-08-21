@@ -6,4 +6,5 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 ### Usage:
 Please navigate to the website using the link below.
+
 https://nicky-plat.github.io/D3-Challenge/
