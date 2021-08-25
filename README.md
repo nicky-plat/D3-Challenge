@@ -5,7 +5,7 @@ Tasked with analyzing the current trends shaping people's lives, as well as crea
 <img src="Images/chart.png" >
 
 
-The data set included with the assignment is based on 2014 ACS 1-year estimates can be found here: https://github.com/nicky-plat/D3-Challenge/blob/main/assets/data/data.csv
+The data set included with the assignment is based on 2014 ACS 1-year estimates and can be found here: https://github.com/nicky-plat/D3-Challenge/blob/main/assets/data/data.csv
 
 ### Analysis:
 Please navigate to my website using the link below.
